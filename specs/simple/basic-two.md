@@ -2,12 +2,13 @@
 testspace:
 ---
 
-whatever before 'h1' should break parsing
-
 # Basic Two Suite
 
 This is a **SECOND** Spec header (Aka `Suite`). The following text is descriptional, and can
 contain general markdown syntax. 
+
+### sub section
+whatever
 
 ## ONE: Scenario / Case 
 This is a generic Scenario header that will be used throughout.
